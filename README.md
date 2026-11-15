@@ -31,12 +31,3 @@ To generate a reply, the backend sends the current message and up to five previo
 | src/cli.js | Interactive chat and five-turn live check |
 | test/chat.test.js | Offline HTTP and provider failure tests |
 
-## Submit
-
-Before submitting, run the live demo and try your own five-turn conversation in the CLI. For example, introduce a project name and language, ask three coding questions, then ask the tutor to recall both details. Keep the terminal transcript if your instructor wants evidence.
-
-Create a public GitHub repository and upload the source files including `.gitignore` and `.env.example`. Keep your real `.env` local. Submit the public repository URL.
-
-## License
-
-This repository currently has no license. Public visibility does not grant permission to reuse, modify, or redistribute the code. Check course requirements before adding a license.
